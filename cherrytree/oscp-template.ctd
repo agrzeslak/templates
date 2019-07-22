@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="17" foreground="" is_bold="True" name="10.11.1." prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563770607.91" unique_id="23">
+		<rich_text></rich_text>
+		<node custom_icon_id="21" foreground="" is_bold="False" name="Enumeration" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1492949452.72" unique_id="30">
+			<rich_text></rich_text>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="TCP" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1492949819.41" ts_lastsave="1500473593.05" unique_id="35">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="UDP" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1492949826.2" ts_lastsave="1500473597.2" unique_id="36">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="17" foreground="" is_bold="False" name="Web Services" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1492949605.23" unique_id="37">
+				<rich_text></rich_text>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Nikto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1492949545.74" ts_lastsave="1492949578.65" unique_id="38">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Gobuster" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1492949554.24" ts_lastsave="1563769636.63" unique_id="39">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="WebDav" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1500473692.93" ts_lastsave="1500473698.92" unique_id="40">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="CMS" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1500473700.65" ts_lastsave="1500473703.84" unique_id="41">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="44" foreground="" is_bold="False" name="Other Services" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1500473607.17" unique_id="42">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="SMB" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1500473455.56" ts_lastsave="1500473619.73" unique_id="43">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="SNMP" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1500473619.73" ts_lastsave="1500473631.55" unique_id="44">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="DB" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1500473622.74" ts_lastsave="1500473677.59" unique_id="45">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Other" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1500473623.25" ts_lastsave="1500473681.55" unique_id="46">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="22" foreground="" is_bold="False" name="Exploitation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563770076.69" unique_id="47">
+			<rich_text weight="heavy">Service Exploited:  
+Vulnerability Type:
+Exploit POC:</rich_text>
+			<rich_text>
+</rich_text>
+			<rich_text weight="heavy">Description</rich_text>
+			<rich_text>: 
+
+</rich_text>
+			<rich_text underline="single" weight="heavy">Discovery of Vulnerability</rich_text>
+			<rich_text>
+
+
+</rich_text>
+			<rich_text underline="single" weight="heavy">Exploit Code Used</rich_text>
+			<rich_text>
+
+
+</rich_text>
+			<rich_text underline="single" weight="heavy">Proof\Local.txt File</rich_text>
+			<rich_text>
+   ☐ Screenshot with ifconfig\ipconfig
+   ☐ Submit too OSCP Exam Panel
+
+
+
+
+
+
+</rich_text>
+		</node>
+		<node custom_icon_id="21" foreground="" is_bold="False" name="Post Exploitation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1495714301.41" unique_id="48">
+			<rich_text></rich_text>
+			<node custom_icon_id="44" foreground="" is_bold="False" name="Script Results" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1495714301.41" ts_lastsave="1495714310.34" unique_id="49">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Host Information" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563770107.88" unique_id="50">
+				<rich_text underline="single" weight="heavy">Operating System</rich_text>
+				<rich_text>
+
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">Architecture</rich_text>
+				<rich_text>
+
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">Domain</rich_text>
+				<rich_text>
+
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">Installed Updates</rich_text>
+				<rich_text>
+
+</rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="File System" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563770114.57" unique_id="51">
+				<rich_text underline="single" weight="heavy">Writeable Files\Directories</rich_text>
+				<rich_text>
+
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">Directory List</rich_text>
+				<rich_text>
+
+
+
+
+</rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Running Processes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1495714268.27" unique_id="52">
+				<rich_text underline="single" weight="heavy">Process List</rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Installed Applications" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1495714509.19" unique_id="53">
+				<rich_text underline="single" weight="heavy">Installed Applications</rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Users &amp; Groups" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563770132.71" unique_id="54">
+				<rich_text underline="single" weight="heavy">Users</rich_text>
+				<rich_text>
+
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">Groups</rich_text>
+				<rich_text>
+</rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Network" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563770121.37" unique_id="55">
+				<rich_text underline="single" weight="heavy">IPConfig\IFConfig
+</rich_text>
+				<rich_text>
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">Network Processes</rich_text>
+				<rich_text>
+
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">ARP</rich_text>
+				<rich_text>
+
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">DNS</rich_text>
+				<rich_text>
+
+
+</rich_text>
+				<rich_text underline="single" weight="heavy">Route</rich_text>
+				<rich_text>
+</rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Scheduled Jobs" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563770128.1" unique_id="56">
+				<rich_text underline="single" weight="heavy">Scheduled Tasks</rich_text>
+				<rich_text>
+</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="10" foreground="" is_bold="False" name="Priv Escalation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563770063.52" unique_id="57">
+			<rich_text weight="heavy">Service Exploited:  
+Vulnerability Type:
+Exploit POC:</rich_text>
+			<rich_text>
+</rich_text>
+			<rich_text weight="heavy">Description</rich_text>
+			<rich_text>: 
+
+</rich_text>
+			<rich_text underline="single" weight="heavy">Discovery of Vulnerability</rich_text>
+			<rich_text>
+
+
+</rich_text>
+			<rich_text underline="single" weight="heavy">Exploit Code Used</rich_text>
+			<rich_text>
+
+
+</rich_text>
+			<rich_text underline="single" weight="heavy">Proof\Local.txt File</rich_text>
+			<rich_text>
+   ☐ Screenshot with ifconfig\ipconfig
+   ☐ Submit to OSCP Exam Panel
+
+</rich_text>
+		</node>
+		<node custom_icon_id="18" foreground="" is_bold="False" name="Credentials/Hashes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1563769595.97" unique_id="60">
+			<rich_text></rich_text>
+		</node>
+	</node>
+</cherrytree>
